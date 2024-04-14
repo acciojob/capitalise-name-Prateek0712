@@ -6,3 +6,6 @@ input.addEventListener('input', function(event) {
   // Convert the input value to uppercase and set it back to the input field
   input.value = input.value.toUpperCase();
 });
+
+
+//error in one of the test  case
